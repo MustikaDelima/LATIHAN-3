@@ -1,2 +1,2 @@
-# TUGAS-3
+# Latihan-3
 PROGRAM PIKACU KASIR
